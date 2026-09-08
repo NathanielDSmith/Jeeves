@@ -1,0 +1,47 @@
+[
+  {
+    "id": "job_1",
+    "title": "Senior Backend Engineer (Rust)",
+    "company": "TechCorp Japan",
+    "category": "Engineering",
+    "applicants": 45,
+    "url": "https://example.com/jobs/1",
+    "description": "Looking for experienced Rust developer"
+  },
+  {
+    "id": "job_2",
+    "title": "Full Stack Engineer",
+    "company": "WebStart Inc",
+    "category": "Engineering",
+    "applicants": 32,
+    "url": "https://example.com/jobs/2",
+    "description": "Python, JavaScript, React"
+  },
+  {
+    "id": "job_3",
+    "title": "DevOps Engineer",
+    "company": "CloudFlow Systems",
+    "category": "Infrastructure",
+    "applicants": 28,
+    "url": "https://example.com/jobs/3",
+    "description": "Kubernetes, Docker, AWS"
+  },
+  {
+    "id": "job_4",
+    "title": "Machine Learning Engineer",
+    "company": "AI Innovations",
+    "category": "AI/ML",
+    "applicants": 67,
+    "url": "https://example.com/jobs/4",
+    "description": "Python, TensorFlow, PyTorch"
+  },
+  {
+    "id": "job_5",
+    "title": "Frontend Developer (React)",
+    "company": "Design Studio",
+    "category": "Frontend",
+    "applicants": 53,
+    "url": "https://example.com/jobs/5",
+    "description": "TypeScript, React, CSS"
+  }
+]
